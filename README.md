@@ -34,7 +34,6 @@ The simulation confirms correct UART transmission and reception.
 uart-tx-rx-verilog │ ├── uart_tx.v ├── uart_rx.v ├── uart_top.v ├── uart_tb.v └── README.md
 
 ## Simulation Output
-
 ![UART Simulation](uart_simulation_output.png)
 
 The waveform shows successful UART transmission and reception.
